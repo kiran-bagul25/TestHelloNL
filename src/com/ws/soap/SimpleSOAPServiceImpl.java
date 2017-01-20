@@ -36,5 +36,7 @@ public class SimpleSOAPServiceImpl {
 	 private String test(String str){
 		 return str + new Random().nextInt();
 	 }
+	 
+	    //this is added by savita 11
 	
 }
