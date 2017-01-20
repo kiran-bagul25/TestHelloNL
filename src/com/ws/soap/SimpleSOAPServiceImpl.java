@@ -37,6 +37,6 @@ public class SimpleSOAPServiceImpl {
 		 return str + new Random().nextInt();
 	 }
 	 
-	    //this is added by savita 11
+	    //this is added by kiran
 	
 }
